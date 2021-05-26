@@ -1,0 +1,46 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.453)
+
+
+Expected        catgctctaggaagatccttatcgattttaccacatttgtagaggttttacttgctttaa
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacagt-------------ccttaagcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaagagg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggttgtcccttaagcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaagctg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttatgcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccctaagcgg
+M03249:188:0000 catgctctaggaagatccttttcgattttaccacatttgtagaggtagttccttaagcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaggcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtctcttaagcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagccccttaagcgg
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaagcga
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaagcag
+M03249:188:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagttccttaagcgg
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacatttatagaggtagtcccgtaagcgg
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtggtcccttaagcgg
+M03543:259:0000 catgctctaggaagatccttatcgatttc-ccgcatttgtagaggtagtcccttaagcgg
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagttccttaatcgg
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtaatcccttaagcgg
+M03543:259:0000 catgctctaggaagatccttatcgattttaccacatttgtagaggtagtcccttaagcgg
+                ******************** *******. **.** *             ..       .
+
+Expected        aaaacctcccacatctccccctgaacctgaaacataaaat-------------
+M03543:259:0000 agctaccgtttaacatcccgtcatgttcggcaacacaattaccatagcgtcag
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcattttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcgacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatccttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03249:188:0000 aggttacaatctttatcccgtcgtgttcggcaacgtgtgt-------------
+M03543:259:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03543:259:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03543:259:0000 gggttacaatctttatcccgtcatgttcggcaacgtgcgtc------------
+M03543:259:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03543:259:0000 aggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+M03543:259:0000 gggttacaatctttatcccgtcatgttcggcaacgtgcgt-------------
+                ..    .  .   . **** ...  ...*. .    .  *             

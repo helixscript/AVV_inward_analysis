@@ -1,0 +1,18 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.453)
+
+
+Expected        catgctctaggaagatccaggttaatttttaaaaagcagtcaaaagtccaa---------
+M03249:188:0000 catgctctaggaagatccaggttaatttttaaaaagcagtcaaaagtattcccccagact
+M03249:188:0000 catgctccaggaagatccaggttaatttttaaaaagcagtcaaaagtattcccccagact
+M03543:259:0000 catgctctaggaagatccaggttaatttttaaaaagcagtcaaaagtattcccccagact
+M03543:259:0000 catgctctaggaagatccaggttaatttttaaaaagcagtcaaaagtccagcccc-----
+M03543:259:0000 catgctctaggaagatccaggttaatttttaaaaagcagtcaaaagtattccctcagact
+                *******.*************************************** .           
+
+Expected        --------gtggcccttggcagcatttactctctctgtttgctctggttaataatct
+M03249:188:0000 tgacttctctgctcctgagaagtgcaccccc-----------------caccactcc
+M03249:188:0000 tgacttctctgctcctgagaagtgcaccccc-----------------caccactcc
+M03543:259:0000 tgacttctccgctcctgagaagtgcaccccc-----------------caccactcc
+M03543:259:0000 ----ttaagcggagatgataagcgaaatcccgtcatgttc--------ggcaacgtg
+M03543:259:0000 tgacttctctgctcctgagaagtgcaccccc-----------------caccactcc
+                         .*    * .  **..    *.*                  .  *  . 

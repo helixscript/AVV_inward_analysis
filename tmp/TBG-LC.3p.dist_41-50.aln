@@ -1,0 +1,44 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.453)
+
+
+Expected        catgctctaggaagatccttatcgattttaccacatttgtagagg--------ttttact
+M03249:188:0000 catgctctaggaagatccttatcgattttag----cttaagcggagatcgattaagggca
+M03543:259:0000 catgctctaggaagatccttatcgattttacca--ca-aagcggagtgcatctggtgtca
+M03249:188:0000 catgctctaggaagatccttatcgattttaccg-----atgaggagttaggaaagtgtca
+M03249:188:0000 catgctctaggaagatccttatcgattttaccagccttcagcggagcactcactgcaaca
+M03543:259:0000 catgctctaggaagatccttatcgattttacca--cataagcggagccggagtttgcgca
+M03543:259:0000 catgctctaggaagatccttatcgatcttcc----cttaagcgtagcggttgcggcagca
+M03249:188:0000 catgctctaggaagatccttatcgattttatcggtttccctggaagaccttgactttgcc
+M03543:259:0000 catgctctaggaagatccttatcgattttaca---cttaagcggagaaaacatcacctca
+M03249:188:0000 catgctctaggaagatccttatcgattataccc---------------------cgggca
+M03249:188:0000 catgctctaggaagatccttatcgatttaccac----------aaggtaagcacaggaca
+M03543:259:0000 catgctctaggaagatccttatcgatttt------cttaagcggagactctagggaacca
+                **************************.                               * 
+
+Expected        tgctttaaaaaacctcccacatctccccctgaacctgaaacataaaat------------
+M03249:188:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggt--------------
+M03543:259:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctgg---------------
+M03249:188:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggtg-------------
+M03249:188:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcc------------------
+M03543:259:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctg----------------
+M03543:259:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggt--------------
+M03249:188:0000 attctgaagaaacagagtccagttatggc--catcttgacta------------------
+M03543:259:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctgg---------------
+M03249:188:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggtgtagatctcggtgg
+M03249:188:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggtgtagat--------
+M03543:259:0000 tccggtgagttaccgagtacaattaccat--agcgtcagtcctggtgt------------
+                  .   .*.  **    . ** .* .  .   .. * .. .                   
+
+Expected        ---
+M03249:188:0000 ---
+M03543:259:0000 ---
+M03249:188:0000 ---
+M03249:188:0000 ---
+M03543:259:0000 ---
+M03543:259:0000 ---
+M03249:188:0000 ---
+M03543:259:0000 ---
+M03249:188:0000 tcg
+M03249:188:0000 ---
+M03543:259:0000 ---
+                   
